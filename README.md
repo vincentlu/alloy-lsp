@@ -55,7 +55,7 @@ This package provides LSP integration only. For syntax highlighting and
 indentation, use one of:
 
 - [alloy-mode](https://github.com/vincentlu/alloy-mode) — works on any Emacs 25.1+
-- `alloy-ts-mode.el` (included) — tree-sitter-based (Emacs 29+),
+- [alloy-ts-mode](https://github.com/vincentlu/alloy-ts-mode) — tree-sitter-based (Emacs 29+),
   using the [tree-sitter-alloy](https://github.com/vincentlu/tree-sitter-alloy) grammar
 
 ## License
